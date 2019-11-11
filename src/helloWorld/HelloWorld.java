@@ -68,7 +68,7 @@ public class HelloWorld {
          // char 
          char ein_zeichen = 'a';
          System.out.println(ein_zeichen);
-         // char zwei_zeichen = 'ab' ; geht nicht.
+         // char zwei_zeichen = 'ab' ; geht nicht.bhnbg
          
          //string 
          String text = "abcdefg";
