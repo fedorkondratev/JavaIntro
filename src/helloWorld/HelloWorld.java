@@ -52,7 +52,10 @@ public class HelloWorld {
          // float
          float kleine_komma_zahl=123.123F; //ACHTUNG - OHNE F IST ES DOUBLE!!
          System.out.println(kleine_komma_zahl);
-         
+         System.out.println(Float.MIN_VALUE);
+         System.out.println(Float.MAX_VALUE);
+     
+        
          
          
          
@@ -68,7 +71,7 @@ public class HelloWorld {
          // char 
          char ein_zeichen = 'a';
          System.out.println(ein_zeichen);
-         // char zwei_zeichen = 'ab' ; geht nicht.bhnbg
+         // char zwei_zeichen = 'ab' ; geht nicht.
          
          //string 
          String text = "abcdefg";
