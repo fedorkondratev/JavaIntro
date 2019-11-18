@@ -54,9 +54,9 @@ public class Bedingung {
 		}
 		System.out.println("abc");
 		//
+		System.out.println(9 % 2);
 //    	if (9 % 3) {
 //			System.out.println("Rest ist 0");
-		}
+//	}
+	
 	}
-
-
