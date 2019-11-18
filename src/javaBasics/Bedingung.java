@@ -58,5 +58,6 @@ public class Bedingung {
 //    	if (9 % 3) {
 //			System.out.println("Rest ist 0");
 //	}
-	
+
 	}
+}
