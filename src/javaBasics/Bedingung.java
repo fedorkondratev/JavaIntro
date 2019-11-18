@@ -49,9 +49,14 @@ public class Bedingung {
 
 		}
 		// Klammern
-		if (3 < 1)
+		if (0 < 1) {
 			System.out.println("juhu");
+		}
 		System.out.println("abc");
+		//
+//    	if (9 % 3) {
+//			System.out.println("Rest ist 0");
+		}
 	}
 
-}
+
